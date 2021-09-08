@@ -1480,3 +1480,10 @@ section {
 #footer .credits a {
   color: #9eccf4;
 }
+
+
+/* ----- Custom Section ----- */
+.header-logo-font{
+    font-size: 30px;
+    font-weight: bold;
+  }
